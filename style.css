@@ -83,6 +83,7 @@ body {
     height: 50px;
     display: flex;
     align-items: center;
+    margin-top: 10px;
 }
 .d-1-2 {
     height:50px;
@@ -130,4 +131,21 @@ body {
     width: 80%;
     font-size: 8px;
 
+}
+
+.aviso--grande {
+    font-size: 40px;
+    font-weight: bold;
+    display:flex;
+    justify-content:center;
+    margin-top: 30px;
+}
+
+.aviso--gigante {
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content:center;
+    align-items: center;
 }
